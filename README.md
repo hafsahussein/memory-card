@@ -2,6 +2,17 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+colors{
+    blue:#2a2ca3,
+    purble:#501f7a,
+    pink:#ed3eb6,
+    gold:#c99400,
+    heart-red:#d41515,
+    silver:#ededed,
+    light-blue:#0057c9,
+    green:#0b5902
+}
+
 ## Available Scripts
 
 In the project directory, you can run:
